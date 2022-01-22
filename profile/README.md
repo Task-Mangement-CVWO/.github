@@ -1,12 +1,17 @@
-## Hi there 👋
+# CVWO Assignment
 
-<!--
+## Name
+```
+Cui Shen Yi
+```
 
-**Here are some ideas to get you started:**
+## Matriculation Number:
+```
+A0235323N
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Netlify link (Frontend):
+- [laughing-bassi-1b3575.netlify.app](https://laughing-bassi-1b3575.netlify.app)
+
+## Heroku link (Backend)
+- [tm-cvwo-api.herokuapp.com](https://tm-cvwo-api.herokuapp.com/)
