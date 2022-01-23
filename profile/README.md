@@ -16,5 +16,5 @@ A0235323N
 - [tm-cvwo-api.herokuapp.com](https://tm-cvwo-api.herokuapp.com/)
 
 ## Assignment Submissions
-- [Mid Assignment Write Up](https://github.com/Task-Mangement-CVWO/.github/blob/main/Mid%20Assignment%20Submission.pdf)
-- [Final Assignment Write Up]()
+- [Mid Assignment Write Up](https://github.com/Task-Mangement-CVWO/.github/blob/main/CuiShenYi_A0235323N.pdf)
+- [Final Assignment Write Up](https://github.com/Task-Mangement-CVWO/.github/blob/main/CuiShenYi_A0235323N_FinalWriteup.pdf)
