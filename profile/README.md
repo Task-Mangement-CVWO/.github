@@ -1,13 +1,4 @@
-# CVWO Assignment
-
-## Name
-```
-Cui Shen Yi
-```
-## Matriculation Number:
-```
-A0235323N
-```
+# Task Manager
 
 ## Assignment Submissions
 - [Mid Assignment Write Up](https://github.com/Task-Mangement-CVWO/.github/blob/main/CuiShenYi_A0235323N.pdf)
